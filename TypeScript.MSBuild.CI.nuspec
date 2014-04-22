@@ -7,8 +7,8 @@
     <authors>$author$</authors>
     <owners>$author$</owners>
     <licenseUrl>http://blacklite.mit-license.org/</licenseUrl>
-    <projectUrl>https://github.com/Blacklite/Ncapsulate</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/Blacklite/NCapsulate/master/Ncapsulate.Node/ncapsulate-node.png</iconUrl>
+    <projectUrl>https://github.com/david-driscoll/TypeScript.MSBuild.CI</projectUrl>
+    <!--<iconUrl></iconUrl>-->
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes>
